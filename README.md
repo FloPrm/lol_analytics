@@ -134,8 +134,9 @@ A full API definition <a href="https://open.tjstats.com/match-auth-app/swagger/v
 While it's not opened to the community as of yet, esports teams from ERL1+ can access it.
 They have access to their scrims (private training matches) data as well as all of Riot's matches data, in a very detailed (second per second) manner.
 
-Documentation: https://docs.bayesesports.com/docs-data-portal - Historic data is what you also can get from Leaguepedia. EMH (short for Esports Match history) is a way more granular data format.
-You can find an example game on <a href="https://sc.bayesesports.com/portal/en/kb/articles/looking-for-data-samples-here-you-go-13-7-2020-2">Bayes Esports data samples page</a>.
+You may have heard of this data as Bayes Esports', which was the previous data provider contracted to Riot. The LoL Data portal is now being operated by GRID Esports. Source: https://esportsinsider.com/2023/11/riot-games-grid-major-data-partnership-acquires-equity-stake
+
+GRID Esports does not provide any open documentation nor data samples.
 
 <h4 id="lol-data-esports-live-data">LoLEsports Live Data</h4>
 
@@ -198,9 +199,11 @@ I couldn't include them all, but Itero.gg has released a lot of articles in thei
 - [Why is the League of Legends meta so stale?](https://www.itero.gg/articles/why-is-the-league-meta-stale) from itero.gg
 - [LoL: How to win your Solo Queue Draft - a statistical analysis of 1M+ games](https://www.itero.gg/articles/draft-sq) from itero.gg
 - [LoL: The Best Opportunities for AI in Esports](https://www.itero.gg/articles/best-ai) from itero.gg
+- [FlyTracker - A Disambiguation](https://samhine.notion.site/samhine/FlyTracker-A-Disambiguation-cf228401fb2d420d9512abc05cea68e5) by [Sam Hine](https://twitter.com/samhine)
 
 **Papers:**
 - [An Approach for Team Composition in League of Legends using Genetic Algorithm (2019)](https://www.sbgames.org/sbgames2019/files/papers/ComputacaoFull/198418.pdf)
+- [Factor Analysis for behavior analysis](https://drive.google.com/file/d/1o6FcY_anyv7QE86N8dXMdxL2QZdNB26-/view) by [Warock](https://twitter.com/Warock42)
 
 <a href="#book-table-of-contents">Back to Contents</a>
 
@@ -211,6 +214,8 @@ I couldn't include them all, but Itero.gg has released a lot of articles in thei
 - [How to Use Game Data to Win in Esports](https://www.youtube.com/watch?v=VlZFUW1SbR0) by [Evil Geniuses](https://x.com/evilgeniuses)
 - [How Data Is Used Within Esports Orgs](https://www.youtube.com/watch?v=SL_35rOxCAU) by [Evil Geniuses](https://x.com/evilgeniuses)
 - [Analyst Insider](https://www.youtube.com/playlist?list=PL3vL1pnMCbUFEX1-s8xvSm6lYTxT5hwf-) by [Jack J](https://x.com/JackJGaming)
+- [Deep Dive 2021-2023](https://www.twitch.tv/videos/1983931515) by [Beora](https://twitter.com/_Beora)
+- :fr: [KC Analyst Q&A](https://www.twitch.tv/videos/2034539997) by [Xenesis](https://twitter.com/lol_Xenesis)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
 
@@ -220,6 +225,7 @@ Using the Riot Official API:
 - [LeagueStats](https://github.com/vkaelin/LeagueStats) - A website for League of Legends summoners' stats by [LeagueStatsGG](https://x.com/LeagueStatsGG)
 - [LoL Matchup Optimizer](https://github.com/Max-We/lol-matchup-optimizer/tree/main) by Max-We
 - [LoL Tracker](https://github.com/danblock97/lol-stat-tracker) by [danblock](https://danblock.dev/)
+- [Riot API Tools](https://github.com/Baeora/riot_api_tools) by [Beora](https://twitter.com/_Beora)
 
 Using Leaguepedia API:
 - [League of Elo](https://github.com/jprMesh/LeagueOfElo) by jprMesh
@@ -238,6 +244,9 @@ Extracting positional data from VODS using computer vision:
 - [DeeperLeague](https://github.com/davidweatherall/DeeperLeague) by davidweatherall
 - [LoL Automated Video Analyser - LAVA](https://github.com/Steeeephen/LAVA) by Steeeephen
 
+Tools for Google Sheet:
+- [Set Images](https://github.com/Baeora/set_images) by [Beora](https://twitter.com/_Beora)
+
 <a href="#book-table-of-contents">Back to Contents</a>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
@@ -251,6 +260,7 @@ Extracting positional data from VODS using computer vision:
 - [Oracle's Elixir](https://discord.gg/mkgagJ6nPg) organized by [Tim Sevenhuysen](https://x.com/TimSevenhuysen)
 - [GamesOfLegends](https://discord.gg/MQapQmKmDj) organized by [Bynjee](https://x.com/Bynjee)
 - [LoL Coach FR](https://discord.gg/rDrXk5SvpJ) :fr: server organized by [Supernova](https://x.com/Coach_Supernova)
+- [Analitycy](https://discord.com/invite/7TkAAsbHwV) 🇵🇱 server organized by [Arces](https://twitter.com/arceslol), [Sanchi](https://twitter.com/Sanchi_lol), and [Devilpiotr](https://twitter.com/Devilpiotr1)
 
 <a href="#book-table-of-contents">Back to Contents</a>
 
