@@ -202,6 +202,7 @@ I couldn't include them all, but Itero.gg has released a lot of articles in thei
 - [FlyTracker - A Disambiguation](https://samhine.notion.site/samhine/FlyTracker-A-Disambiguation-cf228401fb2d420d9512abc05cea68e5) by [Sam Hine](https://twitter.com/samhine)
 
 **Papers:**
+- [The SIDO Performance Model for League of Legends](https://www.sido.gg/sido-performance-model)
 - [An Approach for Team Composition in League of Legends using Genetic Algorithm (2019)](https://www.sbgames.org/sbgames2019/files/papers/ComputacaoFull/198418.pdf)
 - [Factor Analysis for behavior analysis](https://drive.google.com/file/d/1o6FcY_anyv7QE86N8dXMdxL2QZdNB26-/view) by [Warock](https://twitter.com/Warock42)
 
