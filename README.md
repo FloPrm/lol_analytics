@@ -227,6 +227,8 @@ Using the Riot Official API:
 - [LoL Matchup Optimizer](https://github.com/Max-We/lol-matchup-optimizer/tree/main) by Max-We
 - [LoL Tracker](https://github.com/danblock97/lol-stat-tracker) by [danblock](https://danblock.dev/)
 - [Riot API Tools](https://github.com/Baeora/riot_api_tools) by [Beora](https://twitter.com/_Beora)
+- [ProbuildEx](https://github.com/mrdotb/probuild_ex) - An open open source probuild.
+- [LeagueOfReplays](https://github.com/mrdotb/leagueofreplays) - Record & Replay lol games with spectator API.
 
 Using Leaguepedia API:
 - [League of Elo](https://github.com/jprMesh/LeagueOfElo) by jprMesh
