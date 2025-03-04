@@ -143,6 +143,10 @@ GRID Esports does not provide any open documentation nor data samples.
 There is an API used by https://lolesports.com/, but it is not officially supported and may change at any time without warning.
 There is some unofficial documentation here, but it might not be accurate or up-to-date https://vickz84259.github.io/lolesports-api-docs/
 
+<h4 id="lol-data-esports-others">Others</h4>
+
+I came across the [EsportsBench 4.0](https://bsky.app/profile/cthorrez.bsky.social/post/3lfr767auck2m), a collection of 20 esports competition datasets which can be useful as a "resource for comparison and development of rating systems used to predict the results of esports matches based on past results".
+
 <a href="#book-table-of-contents">Back to Contents</a>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
@@ -184,6 +188,7 @@ Documentation: https://github.com/Pupix/rift-explorer - An automatically generat
 **Others**
 - [Resolving spells and variables in spell texts](https://hextechdocs.dev/resolving-variables-in-spell-texts/)
 - [Map data](https://hextechdocs.dev/map-data/)
+- [Minimap image variations depending on dragon type](https://x.com/Suporian_Garcia/status/1745093587040112836)
 
 <a href="#book-table-of-contents">Back to Contents</a>
 
@@ -205,6 +210,10 @@ I couldn't include them all, but Itero.gg has released a lot of articles in thei
 - [The SIDO Performance Model for League of Legends](https://www.sido.gg/sido-performance-model)
 - [An Approach for Team Composition in League of Legends using Genetic Algorithm (2019)](https://www.sbgames.org/sbgames2019/files/papers/ComputacaoFull/198418.pdf)
 - [Factor Analysis for behavior analysis](https://drive.google.com/file/d/1o6FcY_anyv7QE86N8dXMdxL2QZdNB26-/view) by [Warock](https://twitter.com/Warock42)
+- [Voice Communication Analysis in Esports]() by [Warock](https://twitter.com/Warock42) and [Nicolas Perez](https://x.com/PerezNicolasLol)
+- [PandaSkill - Player Performance and Skill Rating in Esports: Application to League of Legends](https://arxiv.org/abs/2501.10049)
+- [Win probability estimation for strategic
+decision-making in esports](https://x.com/xPetu/status/1838676437693534633) by [xPetu](https://x.com/xPetu)
 
 <a href="#book-table-of-contents">Back to Contents</a>
 
@@ -240,6 +249,9 @@ Using Oracle's Elixir dataset:
 Using Bayes API:
 - [Automatic Wards Script](https://github.com/James-Woodland/Wards) by [Zero](https://x.com/ZeroAnalytics)
 
+Extract soloq replay files:
+- [replayScraper](https://github.com/HugoNayl/replayScraper) by HugoNayl
+
 Organize your replay files (.rofl):
 - [ReplayBook](https://github.com/fraxiinus/ReplayBook) by [Fraxiinus](https://x.com/fraxiinus)
 
@@ -264,6 +276,7 @@ Tools for Google Sheet:
 - [GamesOfLegends](https://discord.gg/MQapQmKmDj) organized by [Bynjee](https://x.com/Bynjee)
 - [LoL Coach FR](https://discord.gg/rDrXk5SvpJ) :fr: server organized by [Supernova](https://x.com/Coach_Supernova)
 - [Analitycy](https://discord.com/invite/7TkAAsbHwV) 🇵🇱 server organized by [Arces](https://twitter.com/arceslol), [Sanchi](https://twitter.com/Sanchi_lol), and [Devilpiotr](https://twitter.com/Devilpiotr1)
+- [LES ANALYSTES FRANÇAIS](https://discord.gg/suYfcvneUC) :fr: server organized by [Mascode](https://x.com/Mascodeux)
 
 <a href="#book-table-of-contents">Back to Contents</a>
 
