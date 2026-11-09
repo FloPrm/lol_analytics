@@ -214,6 +214,7 @@ I couldn't include them all, but Itero.gg has released a lot of articles in thei
 - [PandaSkill - Player Performance and Skill Rating in Esports: Application to League of Legends](https://arxiv.org/abs/2501.10049)
 - [Win probability estimation for strategic
 decision-making in esports](https://x.com/xPetu/status/1838676437693534633) by [xPetu](https://x.com/xPetu)
+- [Is loser's queue real?](https://kaylol.gg/research/losers-queue/) - A study of streaks and matchmaking on ranked games from NA, EUW and KR, by KayLoL
 
 <a href="#book-table-of-contents">Back to Contents</a>
 
