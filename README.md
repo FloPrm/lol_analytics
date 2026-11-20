@@ -262,6 +262,9 @@ Extracting positional data from VODS using computer vision:
 Tools for Google Sheet:
 - [Set Images](https://github.com/Baeora/set_images) by [Beora](https://twitter.com/_Beora)
 
+Fearless series preparation:
+- [Reserve](https://github.com/blucca/series-reserve) - A local browser workspace to confirm player pools, compare whole-series shared-champion capacity and save a coach handoff under global Hard Fearless. [Try the fictional plan](https://blucca.github.io/series-reserve/).
+
 <a href="#book-table-of-contents">Back to Contents</a>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
